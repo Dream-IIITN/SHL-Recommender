@@ -42,7 +42,7 @@ class SHLAdvancedRecommender:
             chroma_db_impl="duckdb+parquet",
             allow_reset=True,
             persist_directory="chroma_db",
-            migrations_on_connect=False  # Critical for deployment
+            anonymized_telemetry=False  # Only use valid parameters
         )
     )
         
