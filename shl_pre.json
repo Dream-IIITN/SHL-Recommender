@@ -1,0 +1,1895 @@
+[
+  {
+    "title": "Claims/Operations Supervisor Solution",
+    "category": "Pre-packaged Job Solution",
+    "description": "Assessment solution designed for claims and operations supervisors.",
+    "job_levels": [
+      "Supervisor",
+      "Manager"
+    ],
+    "languages": [
+      "English",
+      "Hindi"
+    ],
+    "assessment_length": "Short Form",
+    "fact_sheet": null,
+    "tags": [
+      "P",
+      "S",
+      "A",
+      "B"
+    ]
+  },
+  {
+    "title": "Contact Center Customer Service + 8.0",
+    "category": "Pre-packaged Job Solution",
+    "description": "Comprehensive assessment for customer service roles in contact centers.",
+    "job_levels": [
+      "Entry",
+      "Mid",
+      "Senior"
+    ],
+    "languages": [
+      "English"
+    ],
+    "assessment_length": "Standard",
+    "fact_sheet": null,
+    "tags": [
+      "A",
+      "B",
+      "C",
+      "P",
+      "S"
+    ]
+  },
+  {
+    "title": "Contact Center Customer Service 8.0",
+    "category": "Pre-packaged Job Solution",
+    "description": "Assessment focused on customer service skills in contact centers.",
+    "job_levels": [
+      "Entry",
+      "Mid"
+    ],
+    "languages": [
+      "English"
+    ],
+    "assessment_length": "Standard",
+    "fact_sheet": null,
+    "tags": [
+      "S",
+      "B",
+      "C",
+      "P"
+    ]
+  },
+  {
+    "title": "Contact Center Manager - Short Form",
+    "category": "Pre-packaged Job Solution",
+    "description": "Short form assessment for contact center managers.",
+    "job_levels": [
+      "Manager",
+      "Director"
+    ],
+    "languages": [
+      "English"
+    ],
+    "assessment_length": "Short Form",
+    "fact_sheet": null,
+    "tags": [
+      "A",
+      "B",
+      "P",
+      "S"
+    ]
+  },
+  {
+    "title": "Contact Center Sales & Service + 8.0",
+    "category": "Pre-packaged Job Solution",
+    "description": "Assessment for sales and service roles in contact centers.",
+    "job_levels": [
+      "Entry",
+      "Mid",
+      "Senior"
+    ],
+    "languages": [
+      "English"
+    ],
+    "assessment_length": "Standard",
+    "fact_sheet": null,
+    "tags": [
+      "P",
+      "B",
+      "C",
+      "A",
+      "S"
+    ]
+  },
+  {
+    "title": "Contact Center Sales & Service 8.0",
+    "category": "Pre-packaged Job Solution",
+    "description": "Assessment targeting sales and service competencies.",
+    "job_levels": [
+      "Entry",
+      "Mid"
+    ],
+    "languages": [
+      "English"
+    ],
+    "assessment_length": "Standard",
+    "fact_sheet": null,
+    "tags": [
+      "S",
+      "B",
+      "C",
+      "P"
+    ]
+  },
+  {
+    "title": "Contact Center Team Lead/Coach - Short Form",
+    "category": "Pre-packaged Job Solution",
+    "description": "Short form assessment for team leads and coaches in contact centers.",
+    "job_levels": [
+      "Team Lead",
+      "Supervisor"
+    ],
+    "languages": [
+      "English"
+    ],
+    "assessment_length": "Short Form",
+    "fact_sheet": null,
+    "tags": [
+      "A",
+      "B",
+      "P",
+      "S"
+    ]
+  },
+  {
+    "title": "Customer Service - Short Form",
+    "category": "Pre-packaged Job Solution",
+    "description": "Short form assessment for general customer service roles.",
+    "job_levels": [
+      "Entry"
+    ],
+    "languages": [
+      "English"
+    ],
+    "assessment_length": "Short Form",
+    "fact_sheet": null,
+    "tags": [
+      "A",
+      "B",
+      "P"
+    ]
+  },
+  {
+    "title": "Customer Service - Short Form - UK",
+    "category": "Pre-packaged Job Solution",
+    "description": "UK-specific short form assessment for customer service roles.",
+    "job_levels": [
+      "Entry"
+    ],
+    "languages": [
+      "English"
+    ],
+    "assessment_length": "Short Form",
+    "fact_sheet": null,
+    "tags": [
+      "A",
+      "B",
+      "P"
+    ]
+  },
+  {
+    "title": "Customer Service with Sales - Short Form",
+    "category": "Pre-packaged Job Solution",
+    "description": "Short form assessment combining customer service and sales skills.",
+    "job_levels": [
+      "Entry"
+    ],
+    "languages": [
+      "English"
+    ],
+    "assessment_length": "Short Form",
+    "fact_sheet": null,
+    "tags": [
+      "A",
+      "B",
+      "P"
+    ]
+  },
+  {
+    "title": "Director - Short Form",
+    "category": "Pre-packaged Job Solution",
+    "description": "Short form assessment designed for director-level positions.",
+    "job_levels": [
+      "Director"
+    ],
+    "languages": [
+      "English"
+    ],
+    "assessment_length": "Short Form",
+    "fact_sheet": null,
+    "tags": [
+      "A",
+      "B",
+      "P"
+    ]
+  },
+  {
+    "title": "Entry Level Cashier 7.1 (Americas)",
+    "category": "Pre-packaged Job Solution",
+    "description": "Assessment for entry-level cashier positions in the Americas.",
+    "job_levels": [
+      "Entry Level"
+    ],
+    "languages": [
+      "English"
+    ],
+    "assessment_length": "Not specified",
+    "fact_sheet": null,
+    "tags": [
+      "B",
+      "P",
+      "A"
+    ]
+  },
+  {
+    "title": "Entry Level Cashier 7.1 (International)",
+    "category": "Pre-packaged Job Solution",
+    "description": "Assessment for entry-level cashier positions internationally.",
+    "job_levels": [
+      "Entry Level"
+    ],
+    "languages": [
+      "English"
+    ],
+    "assessment_length": "Not specified",
+    "fact_sheet": null,
+    "tags": [
+      "A",
+      "B",
+      "P"
+    ]
+  },
+  {
+    "title": "Entry Level Customer Service 7.1 (Americas)",
+    "category": "Pre-packaged Job Solution",
+    "description": "Assessment for entry-level customer service roles in the Americas.",
+    "job_levels": [
+      "Entry Level"
+    ],
+    "languages": [
+      "English"
+    ],
+    "assessment_length": "Not specified",
+    "fact_sheet": null,
+    "tags": [
+      "C",
+      "P"
+    ]
+  },
+  {
+    "title": "Entry Level Customer Service 7.1 (International)",
+    "category": "Pre-packaged Job Solution",
+    "description": "Assessment for entry-level customer service roles internationally.",
+    "job_levels": [
+      "Entry Level"
+    ],
+    "languages": [
+      "English"
+    ],
+    "assessment_length": "Not specified",
+    "fact_sheet": null,
+    "tags": [
+      "C",
+      "P"
+    ]
+  },
+  {
+    "title": "Entry Level Customer Service 7.1 (South Africa)",
+    "category": "Pre-packaged Job Solution",
+    "description": "Assessment for entry-level customer service roles in South Africa.",
+    "job_levels": [
+      "Entry Level"
+    ],
+    "languages": [
+      "English"
+    ],
+    "assessment_length": "Not specified",
+    "fact_sheet": null,
+    "tags": [
+      "C",
+      "P"
+    ]
+  },
+  {
+    "title": "Entry level Sales 7.1 (Americas)",
+    "category": "Pre-packaged Job Solution",
+    "description": "Assessment for entry-level sales positions in the Americas.",
+    "job_levels": [
+      "Entry Level"
+    ],
+    "languages": [
+      "English"
+    ],
+    "assessment_length": "Not specified",
+    "fact_sheet": null,
+    "tags": [
+      "B",
+      "C",
+      "P"
+    ]
+  },
+  {
+    "title": "Entry level Sales 7.1 (International)",
+    "category": "Pre-packaged Job Solution",
+    "description": "Assessment for entry-level sales positions internationally.",
+    "job_levels": [
+      "Entry Level"
+    ],
+    "languages": [
+      "English"
+    ],
+    "assessment_length": "Not specified",
+    "fact_sheet": null,
+    "tags": [
+      "P",
+      "B",
+      "C"
+    ]
+  },
+  {
+    "title": "Entry Level Sales Sift Out 7.1",
+    "category": "Pre-packaged Job Solution",
+    "description": "Assessment designed to sift out candidates for entry-level sales positions.",
+    "job_levels": [
+      "Entry Level"
+    ],
+    "languages": [
+      "English"
+    ],
+    "assessment_length": "Not specified",
+    "fact_sheet": null,
+    "tags": [
+      "C",
+      "P",
+      "B"
+    ]
+  },
+  {
+    "title": "Event Sales Manager Solution",
+    "category": "Pre-packaged Job Solution",
+    "description": "Assessment for event sales managers.",
+    "job_levels": [
+      "Senior Level"
+    ],
+    "languages": [
+      "English"
+    ],
+    "assessment_length": "Not specified",
+    "fact_sheet": null,
+    "tags": [
+      "S",
+      "A",
+      "B",
+      "P"
+    ]
+  },
+  {
+    "title": "Executive - Short Form",
+    "category": "Individual Test Solution",
+    "description": "Short form assessment for executive-level candidates.",
+    "job_levels": [
+      "Executive"
+    ],
+    "languages": [
+      "English"
+    ],
+    "assessment_length": "Not specified",
+    "fact_sheet": null,
+    "tags": [
+      "A",
+      "B",
+      "P"
+    ]
+  },
+  {
+    "title": "Financial Professional - Short Form",
+    "category": "Individual Test Solution",
+    "description": "Short form assessment for financial professionals.",
+    "job_levels": [
+      "Professional"
+    ],
+    "languages": [
+      "English"
+    ],
+    "assessment_length": "Not specified",
+    "fact_sheet": null,
+    "tags": [
+      "A",
+      "B",
+      "P"
+    ]
+  },
+  {
+    "title": "Financial Services Representative Solution",
+    "category": "Pre-packaged Job Solution",
+    "description": "Assessment designed for financial services representatives.",
+    "job_levels": [
+      "A",
+      "B",
+      "P"
+    ],
+    "languages": [],
+    "assessment_length": "Not specified",
+    "fact_sheet": null,
+    "tags": [
+      "A",
+      "B",
+      "P"
+    ]
+  },
+  {
+    "title": "Front Desk Associate Solution",
+    "category": "Pre-packaged Job Solution",
+    "description": "Assessment tailored for front desk associates.",
+    "job_levels": [
+      "A",
+      "B",
+      "P"
+    ],
+    "languages": [],
+    "assessment_length": "Not specified",
+    "fact_sheet": null,
+    "tags": [
+      "A",
+      "B",
+      "P"
+    ]
+  },
+  {
+    "title": "Gaming Associate Solution",
+    "category": "Pre-packaged Job Solution",
+    "description": "Assessment for gaming associates.",
+    "job_levels": [
+      "A",
+      "B",
+      "P",
+      "S"
+    ],
+    "languages": [],
+    "assessment_length": "Not specified",
+    "fact_sheet": null,
+    "tags": [
+      "A",
+      "B",
+      "P",
+      "S"
+    ]
+  },
+  {
+    "title": "Gaming Manager Solution",
+    "category": "Pre-packaged Job Solution",
+    "description": "Assessment for gaming managers.",
+    "job_levels": [
+      "S",
+      "A",
+      "B",
+      "K",
+      "P"
+    ],
+    "languages": [],
+    "assessment_length": "Not specified",
+    "fact_sheet": null,
+    "tags": [
+      "S",
+      "A",
+      "B",
+      "K",
+      "P"
+    ]
+  },
+  {
+    "title": "General Entry Level - All Industries 7.0 Solution",
+    "category": "Pre-packaged Job Solution",
+    "description": "Assessment for general entry-level positions across all industries.",
+    "job_levels": [
+      "B"
+    ],
+    "languages": [],
+    "assessment_length": "Not specified",
+    "fact_sheet": null,
+    "tags": [
+      "B"
+    ]
+  },
+  {
+    "title": "General Entry Level - All Industries 7.1 Solution",
+    "category": "Pre-packaged Job Solution",
+    "description": "Updated assessment for general entry-level positions.",
+    "job_levels": [
+      "B"
+    ],
+    "languages": [],
+    "assessment_length": "Not specified",
+    "fact_sheet": null,
+    "tags": [
+      "B"
+    ]
+  },
+  {
+    "title": "Graduate + 8.0 Job Focused Assessment",
+    "category": "Individual Test Solution",
+    "description": "Assessment focused on graduate level job positions.",
+    "job_levels": [
+      "A",
+      "B",
+      "P"
+    ],
+    "languages": [],
+    "assessment_length": "Not specified",
+    "fact_sheet": null,
+    "tags": [
+      "A",
+      "B",
+      "P"
+    ]
+  },
+  {
+    "title": "Graduate 7.1 Job Focused Assessment",
+    "category": "Individual Test Solution",
+    "description": "Assessment for graduate job focused positions.",
+    "job_levels": [
+      "B",
+      "C"
+    ],
+    "languages": [],
+    "assessment_length": "Not specified",
+    "fact_sheet": null,
+    "tags": [
+      "B",
+      "C"
+    ]
+  },
+  {
+    "title": "Graduate 8.0 Job Focused Assessment",
+    "category": "Individual Test Solution",
+    "description": "Advanced assessment for graduate job focused roles.",
+    "job_levels": [
+      "P",
+      "B"
+    ],
+    "languages": [],
+    "assessment_length": "Not specified",
+    "fact_sheet": null,
+    "tags": [
+      "P",
+      "B"
+    ]
+  },
+  {
+    "title": "Guest Service Team 7.0 Solution",
+    "category": "Pre-packaged Job Solution",
+    "description": "Assessment for guest service team roles.",
+    "job_levels": [
+      "B"
+    ],
+    "languages": [],
+    "assessment_length": "Not specified",
+    "fact_sheet": null,
+    "tags": [
+      "B"
+    ]
+  },
+  {
+    "title": "Guest Services Associate Solution",
+    "category": "Pre-packaged Job Solution",
+    "description": "Assessment designed for Guest Services Associate roles.",
+    "job_levels": [
+      "Entry Level",
+      "Mid Level"
+    ],
+    "languages": [
+      "English"
+    ],
+    "assessment_length": "Varies by assessment",
+    "fact_sheet": null,
+    "tags": [
+      "A",
+      "B",
+      "P",
+      "S"
+    ]
+  },
+  {
+    "title": "Healthcare Aide 7.0 Solution",
+    "category": "Pre-packaged Job Solution",
+    "description": "Assessment tailored for Healthcare Aide positions.",
+    "job_levels": [
+      "Entry Level",
+      "Mid Level"
+    ],
+    "languages": [
+      "English"
+    ],
+    "assessment_length": "Varies by assessment",
+    "fact_sheet": null,
+    "tags": [
+      "B"
+    ]
+  },
+  {
+    "title": "Healthcare Call Center Agent Solution",
+    "category": "Pre-packaged Job Solution",
+    "description": "Assessment focused on Healthcare Call Center Agent roles.",
+    "job_levels": [
+      "Entry Level",
+      "Mid Level"
+    ],
+    "languages": [
+      "English"
+    ],
+    "assessment_length": "Varies by assessment",
+    "fact_sheet": null,
+    "tags": [
+      "A",
+      "B",
+      "P",
+      "S"
+    ]
+  },
+  {
+    "title": "Healthcare Service Associate Solution",
+    "category": "Pre-packaged Job Solution",
+    "description": "Assessment for Healthcare Service Associate roles.",
+    "job_levels": [
+      "Entry Level",
+      "Mid Level"
+    ],
+    "languages": [
+      "English"
+    ],
+    "assessment_length": "Varies by assessment",
+    "fact_sheet": null,
+    "tags": [
+      "A",
+      "B",
+      "P"
+    ]
+  },
+  {
+    "title": "Healthcare Support Specialist Solution",
+    "category": "Pre-packaged Job Solution",
+    "description": "Assessment designed for Healthcare Support Specialist roles.",
+    "job_levels": [
+      "Entry Level",
+      "Mid Level"
+    ],
+    "languages": [
+      "English"
+    ],
+    "assessment_length": "Varies by assessment",
+    "fact_sheet": null,
+    "tags": [
+      "A",
+      "B",
+      "P"
+    ]
+  },
+  {
+    "title": "Home Health Aide Solution",
+    "category": "Pre-packaged Job Solution",
+    "description": "Assessment for Home Health Aide positions.",
+    "job_levels": [
+      "Entry Level",
+      "Mid Level"
+    ],
+    "languages": [
+      "English"
+    ],
+    "assessment_length": "Varies by assessment",
+    "fact_sheet": null,
+    "tags": [
+      "A",
+      "B",
+      "P"
+    ]
+  },
+  {
+    "title": "Hospitality Manager Solution",
+    "category": "Pre-packaged Job Solution",
+    "description": "Assessment tailored for Hospitality Manager roles.",
+    "job_levels": [
+      "Mid Level",
+      "Senior Level"
+    ],
+    "languages": [
+      "English"
+    ],
+    "assessment_length": "Varies by assessment",
+    "fact_sheet": null,
+    "tags": [
+      "A",
+      "B",
+      "K",
+      "P"
+    ]
+  },
+  {
+    "title": "Host Solution",
+    "category": "Pre-packaged Job Solution",
+    "description": "Assessment for Host roles in hospitality.",
+    "job_levels": [
+      "Entry Level",
+      "Mid Level"
+    ],
+    "languages": [
+      "English"
+    ],
+    "assessment_length": "Varies by assessment",
+    "fact_sheet": null,
+    "tags": [
+      "B",
+      "P"
+    ]
+  },
+  {
+    "title": "Industrial - Entry Level 7.0 Solution",
+    "category": "Pre-packaged Job Solution",
+    "description": "Assessment designed for entry-level industrial positions.",
+    "job_levels": [
+      "Entry Level"
+    ],
+    "languages": [
+      "English"
+    ],
+    "assessment_length": "Varies by assessment",
+    "fact_sheet": null,
+    "tags": [
+      "B"
+    ]
+  },
+  {
+    "title": "Industrial - Entry Level 7.1 (Americas)",
+    "category": "Pre-packaged Job Solution",
+    "description": "Assessment for entry-level industrial roles in the Americas.",
+    "job_levels": [
+      "Entry Level"
+    ],
+    "languages": [
+      "English"
+    ],
+    "assessment_length": "Varies by assessment",
+    "fact_sheet": null,
+    "tags": [
+      "B"
+    ]
+  },
+  {
+    "title": "Industrial - Entry Level 7.1 (International)",
+    "category": "Pre-packaged Job Solution",
+    "description": "Assessment for entry-level industrial roles internationally.",
+    "job_levels": [
+      "Entry Level"
+    ],
+    "languages": [
+      "English"
+    ],
+    "assessment_length": "Varies by assessment",
+    "fact_sheet": null,
+    "tags": [
+      "B"
+    ]
+  },
+  {
+    "title": "Industrial - Professional and Skilled 7.0 Solution",
+    "category": "Pre-packaged Job Solution",
+    "description": "Assessment for professional and skilled industrial positions.",
+    "job_levels": [
+      "Mid Level",
+      "Senior Level"
+    ],
+    "languages": [
+      "English"
+    ],
+    "assessment_length": "Varies by assessment",
+    "fact_sheet": null,
+    "tags": [
+      "A",
+      "B"
+    ]
+  },
+  {
+    "title": "Industrial - Semi-skilled 7.1 (Americas)",
+    "category": "Pre-packaged Job Solution",
+    "description": "Assessment for semi-skilled industrial roles in the Americas.",
+    "job_levels": [
+      "B"
+    ],
+    "languages": [
+      "English"
+    ],
+    "assessment_length": "Varies by assessment",
+    "fact_sheet": null,
+    "tags": [
+      "B"
+    ]
+  },
+  {
+    "title": "Industrial - Semi-skilled 7.1 (International)",
+    "category": "Pre-packaged Job Solution",
+    "description": "Assessment for semi-skilled industrial roles internationally.",
+    "job_levels": [
+      "B"
+    ],
+    "languages": [
+      "English"
+    ],
+    "assessment_length": "Varies by assessment",
+    "fact_sheet": null,
+    "tags": [
+      "B"
+    ]
+  },
+  {
+    "title": "Industrial Professional and Skilled 7.1 (Americas)",
+    "category": "Pre-packaged Job Solution",
+    "description": "Assessment for professional and skilled industrial roles in the Americas.",
+    "job_levels": [
+      "A",
+      "B"
+    ],
+    "languages": [
+      "English"
+    ],
+    "assessment_length": "Varies by assessment",
+    "fact_sheet": null,
+    "tags": [
+      "A",
+      "B"
+    ]
+  },
+  {
+    "title": "Industrial Professional and Skilled 7.1 Solution",
+    "category": "Pre-packaged Job Solution",
+    "description": "Comprehensive solution for assessing professional and skilled industrial roles.",
+    "job_levels": [
+      "A",
+      "B"
+    ],
+    "languages": [
+      "English"
+    ],
+    "assessment_length": "Varies by assessment",
+    "fact_sheet": null,
+    "tags": [
+      "A",
+      "B"
+    ]
+  },
+  {
+    "title": "Installation and Repair Technician Solution",
+    "category": "Pre-packaged Job Solution",
+    "description": "Assessment tailored for installation and repair technician roles.",
+    "job_levels": [
+      "A",
+      "B",
+      "P",
+      "S"
+    ],
+    "languages": [
+      "English"
+    ],
+    "assessment_length": "Varies by assessment",
+    "fact_sheet": null,
+    "tags": [
+      "A",
+      "B",
+      "P",
+      "S"
+    ]
+  },
+  {
+    "title": "Insurance Account Manager Solution",
+    "category": "Pre-packaged Job Solution",
+    "description": "Assessment designed for insurance account managers.",
+    "job_levels": [
+      "A",
+      "B",
+      "P",
+      "S"
+    ],
+    "languages": [
+      "English"
+    ],
+    "assessment_length": "Varies by assessment",
+    "fact_sheet": null,
+    "tags": [
+      "A",
+      "B",
+      "P",
+      "S"
+    ]
+  },
+  {
+    "title": "Insurance Administrative Assistant Solution",
+    "category": "Pre-packaged Job Solution",
+    "description": "Assessment for administrative assistants in the insurance sector.",
+    "job_levels": [
+      "A",
+      "B",
+      "P",
+      "S"
+    ],
+    "languages": [
+      "English"
+    ],
+    "assessment_length": "Varies by assessment",
+    "fact_sheet": null,
+    "tags": [
+      "A",
+      "B",
+      "P",
+      "S"
+    ]
+  },
+  {
+    "title": "Insurance Agent Solution",
+    "category": "Pre-packaged Job Solution",
+    "description": "Assessment for insurance agents.",
+    "job_levels": [
+      "A",
+      "B",
+      "P",
+      "S"
+    ],
+    "languages": [
+      "English"
+    ],
+    "assessment_length": "Varies by assessment",
+    "fact_sheet": null,
+    "tags": [
+      "A",
+      "B",
+      "P",
+      "S"
+    ]
+  },
+  {
+    "title": "Insurance Director Solution",
+    "category": "Pre-packaged Job Solution",
+    "description": "Assessment for directors in the insurance industry.",
+    "job_levels": [
+      "A",
+      "B",
+      "P",
+      "S"
+    ],
+    "languages": [
+      "English"
+    ],
+    "assessment_length": "Varies by assessment",
+    "fact_sheet": null,
+    "tags": [
+      "A",
+      "B",
+      "P",
+      "S"
+    ]
+  },
+  {
+    "title": "Insurance Sales Manager Solution",
+    "category": "Pre-packaged Job Solution",
+    "description": "Assessment for sales managers in the insurance field.",
+    "job_levels": [
+      "A",
+      "B",
+      "P",
+      "S"
+    ],
+    "languages": [
+      "English"
+    ],
+    "assessment_length": "Varies by assessment",
+    "fact_sheet": null,
+    "tags": [
+      "A",
+      "B",
+      "P",
+      "S"
+    ]
+  },
+  {
+    "title": "Manager - Short Form",
+    "category": "Pre-packaged Job Solution",
+    "description": "Short-form assessment for managerial roles.",
+    "job_levels": [
+      "A",
+      "B",
+      "K",
+      "P",
+      "S"
+    ],
+    "languages": [
+      "English"
+    ],
+    "assessment_length": "Varies by assessment",
+    "fact_sheet": null,
+    "tags": [
+      "A",
+      "B",
+      "K",
+      "P",
+      "S"
+    ]
+  },
+  {
+    "title": "Manager + 7.0 Solution",
+    "category": "Pre-packaged Job Solution",
+    "description": "Comprehensive solution for assessing managerial roles.",
+    "job_levels": [
+      "A",
+      "B",
+      "C"
+    ],
+    "languages": [
+      "English"
+    ],
+    "assessment_length": "Varies by assessment",
+    "fact_sheet": null,
+    "tags": [
+      "A",
+      "B",
+      "C"
+    ]
+  },
+  {
+    "title": "Manager + 7.1 (Americas)",
+    "category": "Pre-packaged Job Solution",
+    "description": "Assessment for managerial roles in the Americas region.",
+    "job_levels": [
+      "Manager"
+    ],
+    "languages": [
+      "English"
+    ],
+    "assessment_length": "Variable",
+    "fact_sheet": null,
+    "tags": [
+      "B",
+      "C",
+      "P"
+    ]
+  },
+  {
+    "title": "Manager + 7.1 (International)",
+    "category": "Pre-packaged Job Solution",
+    "description": "Assessment for managerial roles in international contexts.",
+    "job_levels": [
+      "Manager"
+    ],
+    "languages": [
+      "English"
+    ],
+    "assessment_length": "Variable",
+    "fact_sheet": null,
+    "tags": [
+      "B",
+      "C",
+      "P"
+    ]
+  },
+  {
+    "title": "Manager 7.0 Solution",
+    "category": "Pre-packaged Job Solution",
+    "description": "Assessment for managerial roles using version 7.0.",
+    "job_levels": [
+      "Manager"
+    ],
+    "languages": [
+      "English"
+    ],
+    "assessment_length": "Variable",
+    "fact_sheet": null,
+    "tags": [
+      "B",
+      "C"
+    ]
+  },
+  {
+    "title": "Manager 7.1 (Americas)",
+    "category": "Pre-packaged Job Solution",
+    "description": "Updated assessment for managerial roles in the Americas.",
+    "job_levels": [
+      "Manager"
+    ],
+    "languages": [
+      "English"
+    ],
+    "assessment_length": "Variable",
+    "fact_sheet": null,
+    "tags": [
+      "B",
+      "C",
+      "P"
+    ]
+  },
+  {
+    "title": "Manager 7.1 (International)",
+    "category": "Pre-packaged Job Solution",
+    "description": "Updated assessment for managerial roles internationally.",
+    "job_levels": [
+      "Manager"
+    ],
+    "languages": [
+      "English"
+    ],
+    "assessment_length": "Variable",
+    "fact_sheet": null,
+    "tags": [
+      "B",
+      "C",
+      "P"
+    ]
+  },
+  {
+    "title": "Manager 8.0 JFA",
+    "category": "Pre-packaged Job Solution",
+    "description": "Assessment for managerial roles using version 8.0.",
+    "job_levels": [
+      "Manager"
+    ],
+    "languages": [
+      "English"
+    ],
+    "assessment_length": "Variable",
+    "fact_sheet": null,
+    "tags": [
+      "B",
+      "K",
+      "P"
+    ]
+  },
+  {
+    "title": "Manager 8.0+ JFA",
+    "category": "Pre-packaged Job Solution",
+    "description": "Advanced assessment for managerial roles.",
+    "job_levels": [
+      "Manager"
+    ],
+    "languages": [
+      "English"
+    ],
+    "assessment_length": "Variable",
+    "fact_sheet": null,
+    "tags": [
+      "B",
+      "K",
+      "P"
+    ]
+  },
+  {
+    "title": "Manufacturing Production Team Member",
+    "category": "Pre-packaged Job Solution",
+    "description": "Assessment for roles in manufacturing production.",
+    "job_levels": [
+      "A",
+      "B"
+    ],
+    "languages": [
+      "English"
+    ],
+    "assessment_length": "Variable",
+    "fact_sheet": null,
+    "tags": [
+      "A",
+      "B"
+    ]
+  },
+  {
+    "title": "Manufacturing Skilled Maintenance Worker",
+    "category": "Pre-packaged Job Solution",
+    "description": "Assessment for skilled maintenance roles in manufacturing.",
+    "job_levels": [
+      "A",
+      "B"
+    ],
+    "languages": [
+      "English"
+    ],
+    "assessment_length": "Variable",
+    "fact_sheet": null,
+    "tags": [
+      "A",
+      "B"
+    ]
+  },
+  {
+    "title": "Network Engineer/Analyst Solution",
+    "category": "Pre-packaged Job Solution",
+    "description": "Assessment designed for network engineers and analysts.",
+    "job_levels": [
+      "P",
+      "S",
+      "K",
+      "B",
+      "A"
+    ],
+    "languages": [
+      "English"
+    ],
+    "assessment_length": "Variable",
+    "fact_sheet": null,
+    "tags": [
+      "P",
+      "S",
+      "K",
+      "B",
+      "A"
+    ]
+  },
+  {
+    "title": "Nurse Leader Solution",
+    "category": "Pre-packaged Job Solution",
+    "description": "Assessment for leadership roles in nursing.",
+    "job_levels": [
+      "S",
+      "A",
+      "B",
+      "P"
+    ],
+    "languages": [
+      "English"
+    ],
+    "assessment_length": "Variable",
+    "fact_sheet": null,
+    "tags": [
+      "S",
+      "A",
+      "B",
+      "P"
+    ]
+  },
+  {
+    "title": "Nurse Solution",
+    "category": "Pre-packaged Job Solution",
+    "description": "Assessment for nursing roles.",
+    "job_levels": [
+      "P",
+      "A",
+      "B"
+    ],
+    "languages": [
+      "English"
+    ],
+    "assessment_length": "Variable",
+    "fact_sheet": null,
+    "tags": [
+      "P",
+      "A",
+      "B"
+    ]
+  },
+  {
+    "title": "Nursing Assistant Solution",
+    "category": "Pre-packaged Job Solution",
+    "description": "Assessment designed for nursing assistant roles.",
+    "job_levels": [
+      "Entry Level",
+      "Mid Level"
+    ],
+    "languages": [
+      "English",
+      "Hindi",
+      "Spanish"
+    ],
+    "assessment_length": "30 minutes",
+    "fact_sheet": "https://www.shl.com/solutions/products/nursing-assistant-solution-fact-sheet",
+    "tags": [
+      "A",
+      "B",
+      "P"
+    ]
+  },
+  {
+    "title": "Personal Banker - Short Form",
+    "category": "Individual Test Solution",
+    "description": "Short form assessment for personal banker roles.",
+    "job_levels": [
+      "Entry Level"
+    ],
+    "languages": [
+      "English"
+    ],
+    "assessment_length": "20 minutes",
+    "fact_sheet": "https://www.shl.com/solutions/products/personal-banker-short-form-fact-sheet",
+    "tags": [
+      "A",
+      "B",
+      "K",
+      "P",
+      "S"
+    ]
+  },
+  {
+    "title": "Phone Banker - Short Form",
+    "category": "Individual Test Solution",
+    "description": "Assessment for phone banker roles.",
+    "job_levels": [
+      "Entry Level"
+    ],
+    "languages": [
+      "English"
+    ],
+    "assessment_length": "20 minutes",
+    "fact_sheet": "https://www.shl.com/solutions/products/phone-banker-short-form-fact-sheet",
+    "tags": [
+      "A",
+      "B",
+      "P"
+    ]
+  },
+  {
+    "title": "Prep/Line Cook Solution",
+    "category": "Pre-packaged Job Solution",
+    "description": "Assessment for prep and line cook roles.",
+    "job_levels": [
+      "Entry Level"
+    ],
+    "languages": [
+      "English"
+    ],
+    "assessment_length": "30 minutes",
+    "fact_sheet": "https://www.shl.com/solutions/products/prep-line-cook-solution-fact-sheet",
+    "tags": [
+      "A",
+      "B",
+      "P"
+    ]
+  },
+  {
+    "title": "Professional + 7.0 Solution",
+    "category": "Individual Test Solution",
+    "description": "Comprehensive assessment for various professional roles.",
+    "job_levels": [
+      "Mid Level",
+      "Senior Level"
+    ],
+    "languages": [
+      "English",
+      "Hindi"
+    ],
+    "assessment_length": "45 minutes",
+    "fact_sheet": "https://www.shl.com/solutions/products/professional-7-0-solution-fact-sheet",
+    "tags": [
+      "A",
+      "B",
+      "C"
+    ]
+  },
+  {
+    "title": "Proof Operator - Processing Specialist - Short Form",
+    "category": "Pre-packaged Job Solution",
+    "description": "Assessment for processing specialists focusing on proof operations.",
+    "job_levels": [
+      "S"
+    ],
+    "languages": [
+      "English"
+    ],
+    "assessment_length": "Short Form",
+    "fact_sheet": null,
+    "tags": [
+      "S"
+    ]
+  },
+  {
+    "title": "Reservation Agent Solution",
+    "category": "Pre-packaged Job Solution",
+    "description": "Assessment designed for reservation agents.",
+    "job_levels": [
+      "A",
+      "P"
+    ],
+    "languages": [
+      "English"
+    ],
+    "assessment_length": null,
+    "fact_sheet": null,
+    "tags": [
+      "A",
+      "P"
+    ]
+  },
+  {
+    "title": "Restaurant Manager Solution",
+    "category": "Pre-packaged Job Solution",
+    "description": "Assessment tailored for restaurant managers.",
+    "job_levels": [
+      "A",
+      "B",
+      "P"
+    ],
+    "languages": [
+      "English"
+    ],
+    "assessment_length": null,
+    "fact_sheet": null,
+    "tags": [
+      "A",
+      "B",
+      "P"
+    ]
+  },
+  {
+    "title": "Restaurant Supervisor Solution",
+    "category": "Pre-packaged Job Solution",
+    "description": "Assessment for restaurant supervisors.",
+    "job_levels": [
+      "A",
+      "B",
+      "P"
+    ],
+    "languages": [
+      "English"
+    ],
+    "assessment_length": null,
+    "fact_sheet": null,
+    "tags": [
+      "A",
+      "B",
+      "P"
+    ]
+  },
+  {
+    "title": "Retail Consultant Solution",
+    "category": "Pre-packaged Job Solution",
+    "description": "Assessment for retail consultants.",
+    "job_levels": [
+      "A",
+      "B",
+      "P"
+    ],
+    "languages": [
+      "English"
+    ],
+    "assessment_length": null,
+    "fact_sheet": null,
+    "tags": [
+      "A",
+      "B",
+      "P"
+    ]
+  },
+  {
+    "title": "Retail Manager w/ Sales Solution",
+    "category": "Pre-packaged Job Solution",
+    "description": "Assessment for retail managers with a focus on sales.",
+    "job_levels": [
+      "A",
+      "B",
+      "P"
+    ],
+    "languages": [
+      "English"
+    ],
+    "assessment_length": null,
+    "fact_sheet": null,
+    "tags": [
+      "A",
+      "B",
+      "P"
+    ]
+  },
+  {
+    "title": "Retail Sales Associate Solution",
+    "category": "Pre-packaged Job Solution",
+    "description": "Assessment for retail sales associates.",
+    "job_levels": [
+      "A",
+      "B",
+      "P"
+    ],
+    "languages": [
+      "English"
+    ],
+    "assessment_length": null,
+    "fact_sheet": null,
+    "tags": [
+      "A",
+      "B",
+      "P"
+    ]
+  },
+  {
+    "title": "Sales Director Solution",
+    "category": "Pre-packaged Job Solution",
+    "description": "Assessment for sales directors.",
+    "job_levels": [
+      "A",
+      "B",
+      "P"
+    ],
+    "languages": [
+      "English"
+    ],
+    "assessment_length": null,
+    "fact_sheet": null,
+    "tags": [
+      "A",
+      "B",
+      "P"
+    ]
+  },
+  {
+    "title": "Sales Engineer Solution",
+    "category": "Pre-packaged Job Solution",
+    "description": "Assessment for sales engineers.",
+    "job_levels": [
+      "A",
+      "B",
+      "K",
+      "P",
+      "S"
+    ],
+    "languages": [
+      "English"
+    ],
+    "assessment_length": null,
+    "fact_sheet": null,
+    "tags": [
+      "A",
+      "B",
+      "K",
+      "P",
+      "S"
+    ]
+  },
+  {
+    "title": "Sales Manager Solution",
+    "category": "Pre-packaged Job Solution",
+    "description": "Assessment for sales managers.",
+    "job_levels": [
+      "A",
+      "B",
+      "P"
+    ],
+    "languages": [
+      "English"
+    ],
+    "assessment_length": null,
+    "fact_sheet": null,
+    "tags": [
+      "A",
+      "B",
+      "P"
+    ]
+  },
+  {
+    "title": "Sales Professional 7.0 Solution",
+    "category": "Pre-packaged Job Solution",
+    "description": "Assessment for sales professionals version 7.0.",
+    "job_levels": [
+      "C",
+      "B"
+    ],
+    "languages": [
+      "English"
+    ],
+    "assessment_length": null,
+    "fact_sheet": null,
+    "tags": [
+      "C",
+      "B"
+    ]
+  },
+  {
+    "title": "Sales Professional 7.1 (Americas)",
+    "category": "Pre-packaged Job Solution",
+    "description": "Assessment for sales professionals version 7.1 tailored for the Americas.",
+    "job_levels": [
+      "B",
+      "C"
+    ],
+    "languages": [
+      "English"
+    ],
+    "assessment_length": null,
+    "fact_sheet": null,
+    "tags": [
+      "B",
+      "C"
+    ]
+  },
+  {
+    "title": "Sales Professional Solution",
+    "category": "Pre-packaged Job Solution",
+    "description": "Assessment designed for sales professionals.",
+    "job_levels": [
+      "Entry-Level",
+      "Mid-Level",
+      "Senior-Level"
+    ],
+    "languages": [
+      "English",
+      "Hindi",
+      "Spanish"
+    ],
+    "assessment_length": "30 minutes",
+    "fact_sheet": "https://www.shl.com/solutions/products/product-catalog/sales-professional-solution-fact-sheet",
+    "tags": [
+      "A",
+      "B",
+      "P"
+    ]
+  },
+  {
+    "title": "Sales Representative Solution",
+    "category": "Pre-packaged Job Solution",
+    "description": "Assessment tailored for sales representatives.",
+    "job_levels": [
+      "Entry-Level",
+      "Mid-Level"
+    ],
+    "languages": [
+      "English",
+      "Hindi"
+    ],
+    "assessment_length": "25 minutes",
+    "fact_sheet": "https://www.shl.com/solutions/products/product-catalog/sales-representative-solution-fact-sheet",
+    "tags": [
+      "A",
+      "B",
+      "P"
+    ]
+  },
+  {
+    "title": "Sales Supervisor Solution",
+    "category": "Pre-packaged Job Solution",
+    "description": "Assessment for supervisory roles in sales.",
+    "job_levels": [
+      "Mid-Level",
+      "Senior-Level"
+    ],
+    "languages": [
+      "English",
+      "Hindi"
+    ],
+    "assessment_length": "35 minutes",
+    "fact_sheet": "https://www.shl.com/solutions/products/product-catalog/sales-supervisor-solution-fact-sheet",
+    "tags": [
+      "A",
+      "B",
+      "P"
+    ]
+  },
+  {
+    "title": "Senior Insurance Agent Solution",
+    "category": "Pre-packaged Job Solution",
+    "description": "Assessment for senior roles in insurance sales.",
+    "job_levels": [
+      "Senior-Level"
+    ],
+    "languages": [
+      "English",
+      "Hindi"
+    ],
+    "assessment_length": "40 minutes",
+    "fact_sheet": "https://www.shl.com/solutions/products/product-catalog/senior-insurance-agent-solution-fact-sheet",
+    "tags": [
+      "A",
+      "B",
+      "P"
+    ]
+  },
+  {
+    "title": "Service Associate Solution",
+    "category": "Pre-packaged Job Solution",
+    "description": "Assessment for service associate roles.",
+    "job_levels": [
+      "Entry-Level",
+      "Mid-Level"
+    ],
+    "languages": [
+      "English",
+      "Hindi"
+    ],
+    "assessment_length": "30 minutes",
+    "fact_sheet": "https://www.shl.com/solutions/products/product-catalog/service-associate-solution-fact-sheet",
+    "tags": [
+      "A",
+      "B",
+      "P"
+    ]
+  },
+  {
+    "title": "Store Manager 7.1 (International)",
+    "category": "Pre-packaged Job Solution",
+    "description": "Assessment for Store Manager roles tailored for international markets.",
+    "job_levels": [
+      "C",
+      "B"
+    ],
+    "languages": [
+      "English",
+      "Hindi",
+      "Spanish"
+    ],
+    "assessment_length": "Variable",
+    "fact_sheet": "https://www.shl.com/solutions/products/product-catalog/store-manager-7-1-international/factsheet",
+    "tags": [
+      "A",
+      "B",
+      "P"
+    ]
+  },
+  {
+    "title": "Supervisor - Short Form",
+    "category": "Pre-packaged Job Solution",
+    "description": "A concise assessment for Supervisor roles.",
+    "job_levels": [
+      "S"
+    ],
+    "languages": [
+      "English",
+      "Hindi"
+    ],
+    "assessment_length": "Short",
+    "fact_sheet": "https://www.shl.com/solutions/products/product-catalog/supervisor-short-form/factsheet",
+    "tags": [
+      "A",
+      "B"
+    ]
+  },
+  {
+    "title": "Technical Sales Associate Solution",
+    "category": "Pre-packaged Job Solution",
+    "description": "Assessment designed for Technical Sales Associate positions.",
+    "job_levels": [
+      "A",
+      "B"
+    ],
+    "languages": [
+      "English",
+      "Hindi"
+    ],
+    "assessment_length": "Variable",
+    "fact_sheet": "https://www.shl.com/solutions/products/product-catalog/technical-sales-associate/factsheet",
+    "tags": [
+      "A",
+      "B",
+      "P"
+    ]
+  },
+  {
+    "title": "Telenurse Solution",
+    "category": "Pre-packaged Job Solution",
+    "description": "Assessment for Telenurse roles focusing on communication and technical skills.",
+    "job_levels": [
+      "A",
+      "B"
+    ],
+    "languages": [
+      "English",
+      "Hindi"
+    ],
+    "assessment_length": "Variable",
+    "fact_sheet": "https://www.shl.com/solutions/products/product-catalog/telenurse/factsheet",
+    "tags": [
+      "A",
+      "B",
+      "P"
+    ]
+  },
+  {
+    "title": "Teller 7.0",
+    "category": "Pre-packaged Job Solution",
+    "description": "Assessment for Teller roles evaluating cognitive abilities and customer service skills.",
+    "job_levels": [
+      "B",
+      "K",
+      "P",
+      "S"
+    ],
+    "languages": [
+      "English",
+      "Hindi",
+      "Spanish"
+    ],
+    "assessment_length": "Variable based on job level",
+    "fact_sheet": "https://www.shl.com/solutions/products/product-catalog/teller-7-0-fact-sheet",
+    "tags": [
+      "B",
+      "K",
+      "P",
+      "S"
+    ]
+  },
+  {
+    "title": "Teller with Sales - Short Form",
+    "category": "Pre-packaged Job Solution",
+    "description": "Short form assessment for Teller roles with a focus on sales skills.",
+    "job_levels": [
+      "A",
+      "B",
+      "K",
+      "P",
+      "S"
+    ],
+    "languages": [
+      "English",
+      "Hindi",
+      "Spanish"
+    ],
+    "assessment_length": "Shorter duration",
+    "fact_sheet": "https://www.shl.com/solutions/products/product-catalog/teller-sales-short-form-fact-sheet",
+    "tags": [
+      "A",
+      "B",
+      "K",
+      "P",
+      "S"
+    ]
+  },
+  {
+    "title": "Transcriptionist Solution",
+    "category": "Individual Test Solution",
+    "description": "Assessment designed to evaluate transcription skills and accuracy.",
+    "job_levels": [
+      "A",
+      "B",
+      "K",
+      "P"
+    ],
+    "languages": [
+      "English",
+      "Hindi"
+    ],
+    "assessment_length": "30 minutes",
+    "fact_sheet": "https://www.shl.com/solutions/products/product-catalog/transcriptionist-solution-fact-sheet",
+    "tags": [
+      "A",
+      "B",
+      "K",
+      "P"
+    ]
+  },
+  {
+    "title": "Workplace Safety - Individual 7.0 Solution",
+    "category": "Individual Test Solution",
+    "description": "Assessment focusing on individual safety skills in the workplace.",
+    "job_levels": [
+      "B"
+    ],
+    "languages": [
+      "English"
+    ],
+    "assessment_length": "40 minutes",
+    "fact_sheet": "https://www.shl.com/solutions/products/product-catalog/workplace-safety-individual-7-0-fact-sheet",
+    "tags": [
+      "B"
+    ]
+  },
+  {
+    "title": "Workplace Safety - Team 7.0 Solution",
+    "category": "Individual Test Solution",
+    "description": "Assessment for team-based safety skills and collaboration.",
+    "job_levels": [
+      "B",
+      "C",
+      "P"
+    ],
+    "languages": [
+      "English",
+      "Hindi"
+    ],
+    "assessment_length": "45 minutes",
+    "fact_sheet": "https://www.shl.com/solutions/products/product-catalog/workplace-safety-team-7-0-fact-sheet",
+    "tags": [
+      "B",
+      "C",
+      "P"
+    ]
+  }
+]

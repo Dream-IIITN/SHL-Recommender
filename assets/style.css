@@ -1,0 +1,54 @@
+/* Main app styling */
+.stApp {
+    background-color: #000407;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+/* Header styling */
+.st-emotion-cache-1avcm0n {
+    background-color: #003366 !important;
+}
+
+/* Button styling */
+.stButton>button {
+    background-color: #0066cc;
+    color: white;
+    border-radius: 8px;
+    padding: 0.5rem 1rem;
+    border: none;
+    font-weight: 500;
+    transition: all 0.3s ease;
+}
+
+.stButton>button:hover {
+    background-color: #004d99;
+    transform: translateY(-1px);
+}
+
+/* Card styling */
+.stExpander {
+    background-color: rgb(10, 0, 0);
+    border-radius: 10px;
+    box-shadow: 0 2px 12px rgba(0,0,0,0.1);
+    margin-bottom: 1rem;
+    padding: 1.5rem;
+}
+
+/* Input field styling */
+.stTextArea>div>div>textarea,
+.stSelectbox>div>div>select {
+    border-radius: 8px !important;
+    border: 1px solid #ced4da !important;
+}
+
+/* Success message styling */
+.stAlert.success {
+    border-left: 4px solid #28a745 !important;
+}
+
+/* Responsive design adjustments */
+@media (max-width: 768px) {
+    .stTextArea>div>div>textarea {
+        min-height: 120px;
+    }
+}
