@@ -1,6 +1,13 @@
 # Force modern SQLite
-__import__('pysqlite3')
 import sys
+# try:
+#     from groq import Groq
+# except ImportError:
+#     import sys
+#     !{sys.executable} -m pip install --upgrade groq
+#     from groq import Groq
+# __import__('pysqlite3')
+
 sys.modules['sqlite3'] = sys.modules.pop('pysqlite3')
 import os
 import re
