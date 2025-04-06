@@ -10,6 +10,9 @@ from components.header import show_header
 from components.sidebar import show_sidebar
 from SHLAdvancedRecommender import SHLAdvancedRecommender
 from pages.home import show_home
+if not st.secrets.get("GROQ_API_KEY"):
+    st.error("API key not configured")
+    st.stop()
 # Load environment variables
 load_dotenv()
 

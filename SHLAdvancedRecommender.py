@@ -36,12 +36,15 @@ class SHLAdvancedRecommender:
         # Initialize components
         self.client = Groq(api_key=GROQ_API_KEY)
         self.embedding_function = embedding_functions.DefaultEmbeddingFunction()
-        self.chroma_client = chromadb.PersistentClient(path="chroma_db")
-        self.text_splitter = RecursiveCharacterTextSplitter(
-            chunk_size=1000,
-            chunk_overlap=200,
-            length_function=len  # doubt
+        self.chroma_client = chromadb.PersistentClient(
+        path="chroma_db",
+        settings=chromadb.Settings(
+            chroma_db_impl="duckdb+parquet",
+            allow_reset=True,
+            persist_directory="chroma_db",
+            migrations_on_connect=False  # Critical for deployment
         )
+    )
         
         # Initialize collections
         self.solutions_collection = self._initialize_collection(PRIMARY_COLLECTION)
@@ -207,39 +210,46 @@ class SHLAdvancedRecommender:
     @retry(stop=stop_after_attempt(3))
     def hybrid_search(self, query: str, filters: Optional[Where] = None, where_doc: Optional[WhereDocument] = None) -> List[Dict]:
         """Hybrid search combining vector and keyword matching"""
-        # Vector search
-        vector_results = self.solutions_collection.query(
-            query_texts=[query],
-            where=filters,
-            where_document=where_doc,
-            n_results=5
-        )
-        
-        # Simple keyword boost (could be enhanced with proper keyword search)
-        keyword_boosted = []
-        for i, doc in enumerate(vector_results['documents'][0]):
-            score = vector_results['distances'][0][i]
-            metadata = vector_results['metadatas'][0][i]
-            
-            # Simple keyword matching boost
-            keyword_matches = sum(
-                1 for word in query.lower().split() 
-                if word in doc.lower()
+        try:
+            vector_results = self.solutions_collection.query(
+                query_texts=[query],
+                where=filters,
+                where_document=where_doc,
+                n_results=5
             )
-            boosted_score = score * (1 + (keyword_matches * 0.1))
             
-            keyword_boosted.append({
-                'document': doc,
-                'metadata': metadata,
-                'score': boosted_score,
-                'vector_score': score,
-                'keyword_matches': keyword_matches
-            })
+            # Simple keyword boost (could be enhanced with proper keyword search)
+            keyword_boosted = []
+            for i, doc in enumerate(vector_results['documents'][0]):
+                score = vector_results['distances'][0][i]
+                metadata = vector_results['metadatas'][0][i]
+                
+                # Simple keyword matching boost
+                keyword_matches = sum(
+                    1 for word in query.lower().split() 
+                    if word in doc.lower()
+                )
+                boosted_score = score * (1 + (keyword_matches * 0.1))
+                
+                keyword_boosted.append({
+                    'document': doc,
+                    'metadata': metadata,
+                    'score': boosted_score,
+                    'vector_score': score,
+                    'keyword_matches': keyword_matches
+                })
+            
+            # Re-rank by combined score
+            keyword_boosted.sort(key=lambda x: x['score'], reverse=True)
+            
+            return keyword_boosted[:3]  # Return top 3
+        except Exception as e:
+            if "backfill" in str(e):
+                # Reset ChromaDB connection
+                self.chroma_client.reset()
+                return self.hybrid_search(query)  # Retry once
+            raise
         
-        # Re-rank by combined score
-        keyword_boosted.sort(key=lambda x: x['score'], reverse=True)
-        
-        return keyword_boosted[:3]  # Return top 3
     
     def recommend_solution(self, user_query: str, user_language: str = "english") -> Dict:
         """Agentic recommendation flow with routing"""
