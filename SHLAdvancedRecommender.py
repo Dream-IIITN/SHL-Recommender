@@ -36,7 +36,11 @@ class SHLAdvancedRecommender:
         # Initialize components
         self.client = Groq(api_key=GROQ_API_KEY)
         self.embedding_function = embedding_functions.DefaultEmbeddingFunction()
-        self.chroma_client = chromadb.Client()
+        self.chroma_client = chromadb.HttpClient(
+        host="localhost",  # Or your external ChromaDB URL
+        port=8000,
+        ssl=False
+    )
         # self.chroma_client = chromadb.PersistentClient(
         # path="chroma_db",
         # settings=chromadb.Settings(
