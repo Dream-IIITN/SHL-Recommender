@@ -15,6 +15,7 @@ import pandas as pd
 import chromadb
 import requests
 import PyPDF2
+from tenacity import retry, stop_after_attempt
 import io
 from typing import List, Dict, Optional, Tuple
 from groq import Groq
@@ -202,7 +203,8 @@ class SHLAdvancedRecommender:
                 results['metadatas'][0]
             )
         ]
-    
+
+    @retry(stop=stop_after_attempt(3))
     def hybrid_search(self, query: str, filters: Optional[Where] = None, where_doc: Optional[WhereDocument] = None) -> List[Dict]:
         """Hybrid search combining vector and keyword matching"""
         # Vector search

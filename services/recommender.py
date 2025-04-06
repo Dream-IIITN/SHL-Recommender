@@ -12,7 +12,7 @@ from langchain.text_splitter import RecursiveCharacterTextSplitter
 import pandas as pd
 import requests
 from chromadb.utils import embedding_functions 
-from config import GROQ_API_KEY
+#from config import GROQ_API_KEY
 PRIMARY_COLLECTION = "shl_solutions"
 PDF_COLLECTION = "pdf_content"
 EMBEDDING_MODEL = "all-MiniLM-L6-v2"
