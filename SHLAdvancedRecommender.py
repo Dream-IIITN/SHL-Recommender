@@ -1,13 +1,13 @@
-# Force modern SQLite
-# try:
-#     from groq import Groq
-# except ImportError:
-#     import sys
-#     !{sys.executable} -m pip install --upgrade groq
-#     from groq import Groq
-# __import__('pysqlite3')
-import sys
-sys.modules['sqlite3'] = sys.modules.pop('pysqlite3')
+try:
+    __import__('pysqlite3')
+    import sys
+    sys.modules['sqlite3'] = sys.modules.pop('pysqlite3')
+except ImportError:
+    import subprocess
+    subprocess.run([sys.executable, "-m", "pip", "install", "pysqlite3-binary"], check=True)
+    __import__('pysqlite3')
+    import sys
+    sys.modules['sqlite3'] = sys.modules.pop('pysqlite3')
 import os
 import re
 import chromadb
