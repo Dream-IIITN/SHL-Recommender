@@ -6,7 +6,7 @@
 An intelligent recommendation system for SHL assessment solutions with PDF content analysis.
 
 ## Ouput Video
-
+https://github.com/user-attachments/assets/195485d0-d11d-49d1-92de-f2916781707a
 
 ## Data Crawled from:
 
