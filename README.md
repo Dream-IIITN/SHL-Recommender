@@ -1,8 +1,19 @@
 # SHL Solutions Recommender System
 
-[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://your-app-url.streamlit.app/)
+## Live Demo on Streamlit:
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://shl-recommender-azbye8qthmcv347tqdkp5l.streamlit.app/)
 
 An intelligent recommendation system for SHL assessment solutions with PDF content analysis.
+
+## Ouput Video
+
+
+## Data Crawled from:
+
+https://www.shl.com/solutions/products/product-catalog/
+
+Pre-Packaged Solutions - 132
+Indivisual Solutions - 372 
 
 ## Features
 
@@ -11,6 +22,9 @@ An intelligent recommendation system for SHL assessment solutions with PDF conte
 - 📄 PDF content extraction and analysis
 - 💬 LLM-powered recommendations
 - 📊 User feedback integration
+
+# Final Report 
+[📄 View the Report]()
 
 ## Installation
 
