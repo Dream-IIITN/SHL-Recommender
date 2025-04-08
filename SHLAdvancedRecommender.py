@@ -36,11 +36,7 @@ class SHLAdvancedRecommender:
         # Initialize components
         self.client = Groq(api_key=GROQ_API_KEY)
         self.embedding_function = embedding_functions.DefaultEmbeddingFunction()
-        self.chroma_client = chromadb.HttpClient(
-        host="localhost",  # Or your external ChromaDB URL
-        port=8000,
-        ssl=False
-    )
+        self.chroma_client = chromadb.Client()
         # self.chroma_client = chromadb.PersistentClient(
         # path="chroma_db",
         # settings=chromadb.Settings(
@@ -365,7 +361,14 @@ class SHLAdvancedRecommender:
                 ]
             ]
         }
-    
+    def recommend_solution_json(self, user_query: str, user_language: str = "english"):
+        result = self.recommend_solution(user_query, user_language)
+        return {
+            "solution": result.get("solution", ""),
+            "reasoning": result.get("reasoning", ""),
+            "sources": result.get("sources", []),
+            "pdf_context": result.get("pdf_context", "")
+        }
     def _generate_basic_response(self, user_query: str, solutions: List[Dict]) -> Dict:
         """Generate basic recommendation response"""
         solutions_str = "\n\n".join(
