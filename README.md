@@ -24,7 +24,7 @@ Indivisual Solutions - 372
 - 📊 User feedback integration
 
 # Final Report 
-[📄 View the Report]()
+[📄 View the Report](shl_solution_outline.pdf)
 
 ## Installation
 
