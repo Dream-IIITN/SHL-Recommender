@@ -37,19 +37,10 @@ class SHLAdvancedRecommender:
         self.client = Groq(api_key=GROQ_API_KEY)
         self.embedding_function = embedding_functions.DefaultEmbeddingFunction()
         self.chroma_client = chromadb.Client()
-        # self.chroma_client = chromadb.PersistentClient(
-        # path="chroma_db",
-        # settings=chromadb.Settings(
-        #     chroma_db_impl="duckdb+parquet",
-        #     allow_reset=True,
-        #     persist_directory="chroma_db",
-        #     anonymized_telemetry=False  # Only use valid parameters
-        # )
-    #)
-        
-        # Initialize collections
+        self.text_splitter = RecursiveCharacterTextSplitter(chunk_size=800, chunk_overlap=100)  
         self.solutions_collection = self._initialize_collection(PRIMARY_COLLECTION)
         self.pdf_collection = self._initialize_pdf_collection()
+
         
     def _initialize_collection(self, collection_name: str):
         """Initialize primary solutions collection"""
