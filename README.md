@@ -8,6 +8,8 @@ An intelligent recommendation system for SHL assessment solutions with PDF conte
 ## Ouput Video
 https://github.com/user-attachments/assets/195485d0-d11d-49d1-92de-f2916781707a
 
+## Output API (deployed on Railway API Host)
+https://github.com/user-attachments/assets/e9aee0dd-1b38-488e-932e-b52d7dba386f
 ## Data Crawled from:
 
 https://www.shl.com/solutions/products/product-catalog/
