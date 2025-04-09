@@ -1,3 +1,5 @@
+import sys
+import sqlite3
 try:
     __import__('pysqlite3')
     import sys

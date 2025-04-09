@@ -1,4 +1,4 @@
-from flask import app
+
 import streamlit as st
 st.set_page_config(
     page_title="SHL Recommender Pro",
@@ -16,17 +16,7 @@ if not st.secrets.get("GROQ_API_KEY"):
     st.stop()
 # Load environment variables
 load_dotenv()
-# # In app.py
-# from fastapi import FastAPI
-# import subprocess
 
-# @app.on_event("startup")
-# def start_api():
-#     subprocess.Popen(["uvicorn", "api:app", "--host", "0.0.0.0"])
-# # Configure page
-
-
-# Initialize recommender
 @st.cache_resource
 def get_recommender():
     return SHLAdvancedRecommender()
